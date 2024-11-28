@@ -1,4 +1,4 @@
-This is a main branch text.
+This is a main branch text. this is a new confilict.
 
 sfasfsf
 
